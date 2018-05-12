@@ -1,0 +1,29 @@
+_repo: '----_24110'
+_version: 0.1.0
+alternative_title: Ou You Za Ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhu, Ziqing
+    alias: 朱自清
+    birthdate: 1898
+    deathdate: 1948
+    gutenberg_agent_id: '26254'
+    url: http://www.gutenberg.org/2009/agents/26254
+description: ''
+gutenberg_issued: '2008-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24110'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Europe -- Description and travel'
+- !lcsh 'Zhu, Ziqing, 1898-1948 -- Travel -- Europe'
+title: 歐遊雜記
+url: http://www.gutenberg.org/ebooks/24110
